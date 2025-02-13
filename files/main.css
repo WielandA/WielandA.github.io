@@ -246,7 +246,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p.biq-intro {
   color: #5b5b5b;
   font-weight: 700;
   letter-spacing: 0.125em;
@@ -2850,6 +2851,11 @@ input[type="button"].small,
 #header h5,
 #header h6 {
   color: #ffffff;
+}
+
+header.major h2.biq-intro {
+  font-size: 1em;
+  margin-bottom: 1em;
 }
 
 #header input[type="submit"],
