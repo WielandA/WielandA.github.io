@@ -2111,17 +2111,17 @@ header.major p {
   display: inline-block;
 }
 
-header.major.last {
+div.major.last {
   border-bottom: 0;
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
-header.major.last:after {
+div.major.last:after {
   display: none;
 }
 
-header.major.last h2 {
+div.major.last h2 {
   margin-bottom: 1em;
 }
 
